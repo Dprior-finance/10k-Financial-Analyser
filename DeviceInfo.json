@@ -1,0 +1,1721 @@
+{
+    "DeviceInfo": [
+        {
+            "BoardId": 0,
+            "ChipId": 35072,
+            "DeviceType": "iPhone 2G",
+            "HardwareModel": "m68ap",
+            "ProductType": "iPhone1,1"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 35072,
+            "DeviceType": "iPhone 3G",
+            "HardwareModel": "n82ap",
+            "ProductType": "iPhone1,2"
+        },
+        {
+            "BoardId": 0,
+            "ChipId": 35104,
+            "DeviceType": "iPhone 3Gs",
+            "HardwareModel": "n88ap",
+            "ProductType": "iPhone2,1"
+        },
+        {
+            "BoardId": 0,
+            "ChipId": 35120,
+            "DeviceType": "iPhone 4",
+            "HardwareModel": "n90ap",
+            "ProductType": "iPhone3,1"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 35120,
+            "DeviceType": "iPhone 4",
+            "HardwareModel": "n90bap",
+            "ProductType": "iPhone3,2"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 35120,
+            "DeviceType": "iPhone 4",
+            "HardwareModel": "n92ap",
+            "ProductType": "iPhone3,3"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 35136,
+            "DeviceType": "iPhone 4s",
+            "HardwareModel": "n94ap",
+            "ProductType": "iPhone4,1"
+        },
+        {
+            "BoardId": 0,
+            "ChipId": 35152,
+            "DeviceType": "iPhone 5",
+            "HardwareModel": "n41ap",
+            "ProductType": "iPhone5,1"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 35152,
+            "DeviceType": "iPhone 5",
+            "HardwareModel": "n42ap",
+            "ProductType": "iPhone5,2"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 35152,
+            "DeviceType": "iPhone 5c",
+            "HardwareModel": "n48ap",
+            "ProductType": "iPhone5,3"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 35152,
+            "DeviceType": "iPhone 5c",
+            "HardwareModel": "n49ap",
+            "ProductType": "iPhone5,4"
+        },
+        {
+            "BoardId": 0,
+            "ChipId": 35168,
+            "DeviceType": "iPhone 5s",
+            "HardwareModel": "n51ap",
+            "ProductType": "iPhone6,1"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 35168,
+            "DeviceType": "iPhone 5s",
+            "HardwareModel": "n53ap",
+            "ProductType": "iPhone6,2"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 28672,
+            "DeviceType": "iPhone 6 Plus",
+            "HardwareModel": "n56ap",
+            "ProductType": "iPhone7,1"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 28672,
+            "DeviceType": "iPhone 6",
+            "HardwareModel": "n61ap",
+            "ProductType": "iPhone7,2"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 32768,
+            "DeviceType": "iPhone 6s",
+            "HardwareModel": "n71ap",
+            "ProductType": "iPhone8,1"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 32771,
+            "DeviceType": "iPhone 6s",
+            "HardwareModel": "n71map",
+            "ProductType": "iPhone8,1"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 32768,
+            "DeviceType": "iPhone 6s Plus",
+            "HardwareModel": "n66ap",
+            "ProductType": "iPhone8,2"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 32771,
+            "DeviceType": "iPhone 6s Plus",
+            "HardwareModel": "n66map",
+            "ProductType": "iPhone8,2"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 32771,
+            "DeviceType": "iPhone SE",
+            "HardwareModel": "n69ap",
+            "ProductType": "iPhone8,4"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 32768,
+            "DeviceType": "iPhone SE",
+            "HardwareModel": "n69uap",
+            "ProductType": "iPhone8,4"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 32784,
+            "DeviceType": "iPhone 7",
+            "HardwareModel": "d10ap",
+            "ProductType": "iPhone9,1"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 32784,
+            "DeviceType": "iPhone 7 Plus",
+            "HardwareModel": "d11ap",
+            "ProductType": "iPhone9,2"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 32784,
+            "DeviceType": "iPhone 7",
+            "HardwareModel": "d101ap",
+            "ProductType": "iPhone9,3"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 32784,
+            "DeviceType": "iPhone 7 Plus",
+            "HardwareModel": "d111ap",
+            "ProductType": "iPhone9,4"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 32789,
+            "DeviceType": "iPhone 8",
+            "HardwareModel": "d20ap",
+            "ProductType": "iPhone10,1"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 32789,
+            "DeviceType": "iPhone 8 Plus",
+            "HardwareModel": "d21ap",
+            "ProductType": "iPhone10,2"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 32789,
+            "DeviceType": "iPhone X",
+            "HardwareModel": "d22ap",
+            "ProductType": "iPhone10,3"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 32789,
+            "DeviceType": "iPhone 8",
+            "HardwareModel": "d201ap",
+            "ProductType": "iPhone10,4"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 32789,
+            "DeviceType": "iPhone 8 Plus",
+            "HardwareModel": "d211ap",
+            "ProductType": "iPhone10,5"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 32789,
+            "DeviceType": "iPhone X",
+            "HardwareModel": "d221ap",
+            "ProductType": "iPhone10,6"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 32800,
+            "DeviceType": "iPhone XS",
+            "HardwareModel": "d321ap",
+            "ProductType": "iPhone11,2"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 32800,
+            "DeviceType": "iPhone XS Max",
+            "HardwareModel": "d331ap",
+            "ProductType": "iPhone11,4"
+        },
+        {
+            "BoardId": 26,
+            "ChipId": 32800,
+            "DeviceType": "iPhone XS Max",
+            "HardwareModel": "d331pap",
+            "ProductType": "iPhone11,6"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 32800,
+            "DeviceType": "iPhone XR",
+            "HardwareModel": "n841ap",
+            "ProductType": "iPhone11,8"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 32816,
+            "DeviceType": "iPhone 11",
+            "HardwareModel": "n104ap",
+            "ProductType": "iPhone12,1"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 32816,
+            "DeviceType": "iPhone 11 Pro",
+            "HardwareModel": "d421ap",
+            "ProductType": "iPhone12,3"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 32816,
+            "DeviceType": "iPhone 11 Pro Max",
+            "HardwareModel": "d431ap",
+            "ProductType": "iPhone12,5"
+        },
+        {
+            "BoardId": 16,
+            "ChipId": 32816,
+            "DeviceType": "iPhone SE (2020)",
+            "HardwareModel": "d79ap",
+            "ProductType": "iPhone12,8"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 33025,
+            "DeviceType": "iPhone 12 mini",
+            "HardwareModel": "d52gap",
+            "ProductType": "iPhone13,1"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 33025,
+            "DeviceType": "iPhone 12",
+            "HardwareModel": "d53gap",
+            "ProductType": "iPhone13,2"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 33025,
+            "DeviceType": "iPhone 12 Pro",
+            "HardwareModel": "d53pap",
+            "ProductType": "iPhone13,3"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 33025,
+            "DeviceType": "iPhone 12 Pro Max",
+            "HardwareModel": "d54pap",
+            "ProductType": "iPhone13,4"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 33040,
+            "DeviceType": "iPhone 13 Pro",
+            "HardwareModel": "d63ap",
+            "ProductType": "iPhone14,2"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 33040,
+            "DeviceType": "iPhone 13 Pro Max",
+            "HardwareModel": "d64ap",
+            "ProductType": "iPhone14,3"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 33040,
+            "DeviceType": "iPhone 13 mini",
+            "HardwareModel": "d16ap",
+            "ProductType": "iPhone14,4"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 33040,
+            "DeviceType": "iPhone 13",
+            "HardwareModel": "d17ap",
+            "ProductType": "iPhone14,5"
+        },
+        {
+            "BoardId": 16,
+            "ChipId": 33040,
+            "DeviceType": "iPhone SE 3",
+            "HardwareModel": "d49ap",
+            "ProductType": "iPhone14,6"
+        },
+        {
+            "BoardId": 24,
+            "ChipId": 33040,
+            "DeviceType": "iPhone 14",
+            "HardwareModel": "d27ap",
+            "ProductType": "iPhone14,7"
+        },
+        {
+            "BoardId": 26,
+            "ChipId": 33040,
+            "DeviceType": "iPhone 14 Plus",
+            "HardwareModel": "d28ap",
+            "ProductType": "iPhone14,8"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 33056,
+            "DeviceType": "iPhone 14 Pro",
+            "HardwareModel": "d73ap",
+            "ProductType": "iPhone15,2"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 33056,
+            "DeviceType": "iPhone 14 Pro Max",
+            "HardwareModel": "d74ap",
+            "ProductType": "iPhone15,3"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 33056,
+            "DeviceType": "iPhone 15",
+            "HardwareModel": "d37ap",
+            "ProductType": "iPhone15,4"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 33056,
+            "DeviceType": "iPhone 15 Plus",
+            "HardwareModel": "d38ap",
+            "ProductType": "iPhone15,5"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 33072,
+            "DeviceType": "iPhone 15 Pro",
+            "HardwareModel": "d83ap",
+            "ProductType": "iPhone16,1"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 33072,
+            "DeviceType": "iPhone 15 Pro Max",
+            "HardwareModel": "d84ap",
+            "ProductType": "iPhone16,2"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 35072,
+            "DeviceType": "iPod Touch (1st gen)",
+            "HardwareModel": "n45ap",
+            "ProductType": "iPod1,1"
+        },
+        {
+            "BoardId": 0,
+            "ChipId": 34592,
+            "DeviceType": "iPod Touch (2nd gen)",
+            "HardwareModel": "n72ap",
+            "ProductType": "iPod2,1"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 35106,
+            "DeviceType": "iPod Touch (3rd gen)",
+            "HardwareModel": "n18ap",
+            "ProductType": "iPod3,1"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 35120,
+            "DeviceType": "iPod Touch (4th gen)",
+            "HardwareModel": "n81ap",
+            "ProductType": "iPod4,1"
+        },
+        {
+            "BoardId": 0,
+            "ChipId": 35138,
+            "DeviceType": "iPod Touch (5th gen)",
+            "HardwareModel": "n78ap",
+            "ProductType": "iPod5,1"
+        },
+        {
+            "BoardId": 16,
+            "ChipId": 28672,
+            "DeviceType": "iPod Touch (6th gen)",
+            "HardwareModel": "n102ap",
+            "ProductType": "iPod7,1"
+        },
+        {
+            "BoardId": 22,
+            "ChipId": 32784,
+            "DeviceType": "iPod Touch (7th gen)",
+            "HardwareModel": "n112ap",
+            "ProductType": "iPod9,1"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 35120,
+            "DeviceType": "iPad",
+            "HardwareModel": "k48ap",
+            "ProductType": "iPad1,1"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 35136,
+            "DeviceType": "iPad 2",
+            "HardwareModel": "k93ap",
+            "ProductType": "iPad2,1"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 35136,
+            "DeviceType": "iPad 2",
+            "HardwareModel": "k94ap",
+            "ProductType": "iPad2,2"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 35136,
+            "DeviceType": "iPad 2",
+            "HardwareModel": "k95ap",
+            "ProductType": "iPad2,3"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 35138,
+            "DeviceType": "iPad 2",
+            "HardwareModel": "k93aap",
+            "ProductType": "iPad2,4"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 35138,
+            "DeviceType": "iPad mini",
+            "HardwareModel": "p105ap",
+            "ProductType": "iPad2,5"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 35138,
+            "DeviceType": "iPad mini",
+            "HardwareModel": "p106ap",
+            "ProductType": "iPad2,6"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 35138,
+            "DeviceType": "iPad mini",
+            "HardwareModel": "p107ap",
+            "ProductType": "iPad2,7"
+        },
+        {
+            "BoardId": 0,
+            "ChipId": 35141,
+            "DeviceType": "iPad (3rd gen)",
+            "HardwareModel": "j1ap",
+            "ProductType": "iPad3,1"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 35141,
+            "DeviceType": "iPad (3rd gen)",
+            "HardwareModel": "j2ap",
+            "ProductType": "iPad3,2"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 35141,
+            "DeviceType": "iPad (3rd gen)",
+            "HardwareModel": "j2aap",
+            "ProductType": "iPad3,3"
+        },
+        {
+            "BoardId": 0,
+            "ChipId": 35157,
+            "DeviceType": "iPad (4th gen)",
+            "HardwareModel": "p101ap",
+            "ProductType": "iPad3,4"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 35157,
+            "DeviceType": "iPad (4th gen)",
+            "HardwareModel": "p102ap",
+            "ProductType": "iPad3,5"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 35157,
+            "DeviceType": "iPad (4th gen)",
+            "HardwareModel": "p103ap",
+            "ProductType": "iPad3,6"
+        },
+        {
+            "BoardId": 16,
+            "ChipId": 35168,
+            "DeviceType": "iPad Air",
+            "HardwareModel": "j71ap",
+            "ProductType": "iPad4,1"
+        },
+        {
+            "BoardId": 18,
+            "ChipId": 35168,
+            "DeviceType": "iPad Air",
+            "HardwareModel": "j72ap",
+            "ProductType": "iPad4,2"
+        },
+        {
+            "BoardId": 20,
+            "ChipId": 35168,
+            "DeviceType": "iPad Air",
+            "HardwareModel": "j73ap",
+            "ProductType": "iPad4,3"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 35168,
+            "DeviceType": "iPad mini 2",
+            "HardwareModel": "j85ap",
+            "ProductType": "iPad4,4"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 35168,
+            "DeviceType": "iPad mini 2",
+            "HardwareModel": "j86ap",
+            "ProductType": "iPad4,5"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 35168,
+            "DeviceType": "iPad mini 2",
+            "HardwareModel": "j87ap",
+            "ProductType": "iPad4,6"
+        },
+        {
+            "BoardId": 50,
+            "ChipId": 35168,
+            "DeviceType": "iPad mini 3",
+            "HardwareModel": "j85map",
+            "ProductType": "iPad4,7"
+        },
+        {
+            "BoardId": 52,
+            "ChipId": 35168,
+            "DeviceType": "iPad mini 3",
+            "HardwareModel": "j86map",
+            "ProductType": "iPad4,8"
+        },
+        {
+            "BoardId": 54,
+            "ChipId": 35168,
+            "DeviceType": "iPad mini 3",
+            "HardwareModel": "j87map",
+            "ProductType": "iPad4,9"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 28672,
+            "DeviceType": "iPad mini 4",
+            "HardwareModel": "j96ap",
+            "ProductType": "iPad5,1"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 28672,
+            "DeviceType": "iPad mini 4",
+            "HardwareModel": "j97ap",
+            "ProductType": "iPad5,2"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 28673,
+            "DeviceType": "iPad Air 2",
+            "HardwareModel": "j81ap",
+            "ProductType": "iPad5,3"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 28673,
+            "DeviceType": "iPad Air 2",
+            "HardwareModel": "j82ap",
+            "ProductType": "iPad5,4"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 32769,
+            "DeviceType": "iPad Pro 9.7",
+            "HardwareModel": "j127ap",
+            "ProductType": "iPad6,3"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 32769,
+            "DeviceType": "iPad Pro 9.7",
+            "HardwareModel": "j128ap",
+            "ProductType": "iPad6,4"
+        },
+        {
+            "BoardId": 16,
+            "ChipId": 32769,
+            "DeviceType": "iPad Pro 12.9 (1st gen)",
+            "HardwareModel": "j98aap",
+            "ProductType": "iPad6,7"
+        },
+        {
+            "BoardId": 18,
+            "ChipId": 32769,
+            "DeviceType": "iPad Pro 12.9 (1st gen)",
+            "HardwareModel": "j99aap",
+            "ProductType": "iPad6,8"
+        },
+        {
+            "BoardId": 16,
+            "ChipId": 32768,
+            "DeviceType": "iPad (5th gen)",
+            "HardwareModel": "j71sap",
+            "ProductType": "iPad6,11"
+        },
+        {
+            "BoardId": 16,
+            "ChipId": 32771,
+            "DeviceType": "iPad (5th gen)",
+            "HardwareModel": "j71tap",
+            "ProductType": "iPad6,11"
+        },
+        {
+            "BoardId": 18,
+            "ChipId": 32768,
+            "DeviceType": "iPad (5th gen)",
+            "HardwareModel": "j72sap",
+            "ProductType": "iPad6,12"
+        },
+        {
+            "BoardId": 18,
+            "ChipId": 32771,
+            "DeviceType": "iPad (5th gen)",
+            "HardwareModel": "j72tap",
+            "ProductType": "iPad6,12"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 32785,
+            "DeviceType": "iPad Pro 12.9 (2nd gen)",
+            "HardwareModel": "j120ap",
+            "ProductType": "iPad7,1"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 32785,
+            "DeviceType": "iPad Pro 12.9 (2nd gen)",
+            "HardwareModel": "j121ap",
+            "ProductType": "iPad7,2"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 32785,
+            "DeviceType": "iPad Pro 10.5",
+            "HardwareModel": "j207ap",
+            "ProductType": "iPad7,3"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 32785,
+            "DeviceType": "iPad Pro 10.5",
+            "HardwareModel": "j208ap",
+            "ProductType": "iPad7,4"
+        },
+        {
+            "BoardId": 24,
+            "ChipId": 32784,
+            "DeviceType": "iPad (6th gen)",
+            "HardwareModel": "j71bap",
+            "ProductType": "iPad7,5"
+        },
+        {
+            "BoardId": 26,
+            "ChipId": 32784,
+            "DeviceType": "iPad (6th gen)",
+            "HardwareModel": "j72bap",
+            "ProductType": "iPad7,6"
+        },
+        {
+            "BoardId": 28,
+            "ChipId": 32784,
+            "DeviceType": "iPad (7th gen)",
+            "HardwareModel": "j171ap",
+            "ProductType": "iPad7,11"
+        },
+        {
+            "BoardId": 30,
+            "ChipId": 32784,
+            "DeviceType": "iPad (7th gen)",
+            "HardwareModel": "j172ap",
+            "ProductType": "iPad7,12"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 32807,
+            "DeviceType": "iPad Pro 11 (1st gen)",
+            "HardwareModel": "j317ap",
+            "ProductType": "iPad8,1"
+        },
+        {
+            "BoardId": 28,
+            "ChipId": 32807,
+            "DeviceType": "iPad Pro 11 (1st gen)",
+            "HardwareModel": "j317xap",
+            "ProductType": "iPad8,2"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 32807,
+            "DeviceType": "iPad Pro 11 (1st gen)",
+            "HardwareModel": "j318ap",
+            "ProductType": "iPad8,3"
+        },
+        {
+            "BoardId": 30,
+            "ChipId": 32807,
+            "DeviceType": "iPad Pro 11 (1st gen)",
+            "HardwareModel": "j318xap",
+            "ProductType": "iPad8,4"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 32807,
+            "DeviceType": "iPad Pro 12.9 (3rd gen)",
+            "HardwareModel": "j320ap",
+            "ProductType": "iPad8,5"
+        },
+        {
+            "BoardId": 24,
+            "ChipId": 32807,
+            "DeviceType": "iPad Pro 12.9 (3rd gen)",
+            "HardwareModel": "j320xap",
+            "ProductType": "iPad8,6"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 32807,
+            "DeviceType": "iPad Pro 12.9 (3rd gen)",
+            "HardwareModel": "j321ap",
+            "ProductType": "iPad8,7"
+        },
+        {
+            "BoardId": 26,
+            "ChipId": 32807,
+            "DeviceType": "iPad Pro 12.9 (3rd gen)",
+            "HardwareModel": "j321xap",
+            "ProductType": "iPad8,8"
+        },
+        {
+            "BoardId": 60,
+            "ChipId": 32807,
+            "DeviceType": "iPad Pro 11 (2nd gen)",
+            "HardwareModel": "j417ap",
+            "ProductType": "iPad8,9"
+        },
+        {
+            "BoardId": 62,
+            "ChipId": 32807,
+            "DeviceType": "iPad Pro 11 (2nd gen)",
+            "HardwareModel": "j418ap",
+            "ProductType": "iPad8,10"
+        },
+        {
+            "BoardId": 56,
+            "ChipId": 32807,
+            "DeviceType": "iPad Pro 12.9 (4th gen)",
+            "HardwareModel": "j420ap",
+            "ProductType": "iPad8,11"
+        },
+        {
+            "BoardId": 58,
+            "ChipId": 32807,
+            "DeviceType": "iPad Pro 12.9 (4th gen)",
+            "HardwareModel": "j421ap",
+            "ProductType": "iPad8,12"
+        },
+        {
+            "BoardId": 20,
+            "ChipId": 32800,
+            "DeviceType": "iPad mini (5th gen)",
+            "HardwareModel": "j210ap",
+            "ProductType": "iPad11,1"
+        },
+        {
+            "BoardId": 22,
+            "ChipId": 32800,
+            "DeviceType": "iPad mini (5th gen)",
+            "HardwareModel": "j211ap",
+            "ProductType": "iPad11,2"
+        },
+        {
+            "BoardId": 28,
+            "ChipId": 32800,
+            "DeviceType": "iPad Air (3rd gen)",
+            "HardwareModel": "j217ap",
+            "ProductType": "iPad11,3"
+        },
+        {
+            "BoardId": 30,
+            "ChipId": 32800,
+            "DeviceType": "iPad Air (3rd gen)",
+            "HardwareModel": "j218ap",
+            "ProductType": "iPad11,4"
+        },
+        {
+            "BoardId": 36,
+            "ChipId": 32800,
+            "DeviceType": "iPad (8th gen)",
+            "HardwareModel": "j171aap",
+            "ProductType": "iPad11,6"
+        },
+        {
+            "BoardId": 38,
+            "ChipId": 32800,
+            "DeviceType": "iPad (8th gen)",
+            "HardwareModel": "j172aap",
+            "ProductType": "iPad11,7"
+        },
+        {
+            "BoardId": 24,
+            "ChipId": 32816,
+            "DeviceType": "iPad (9th gen)",
+            "HardwareModel": "j181ap",
+            "ProductType": "iPad12,1"
+        },
+        {
+            "BoardId": 26,
+            "ChipId": 32816,
+            "DeviceType": "iPad (9th gen)",
+            "HardwareModel": "j182ap",
+            "ProductType": "iPad12,2"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 33025,
+            "DeviceType": "iPad Air (4th gen)",
+            "HardwareModel": "j307ap",
+            "ProductType": "iPad13,1"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 33025,
+            "DeviceType": "iPad Air (4th gen)",
+            "HardwareModel": "j308ap",
+            "ProductType": "iPad13,2"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 33027,
+            "DeviceType": "iPad Pro 11 (3rd gen)",
+            "HardwareModel": "j517ap",
+            "ProductType": "iPad13,4"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 33027,
+            "DeviceType": "iPad Pro 11 (3rd gen)",
+            "HardwareModel": "j517xap",
+            "ProductType": "iPad13,5"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 33027,
+            "DeviceType": "iPad Pro 11 (3rd gen)",
+            "HardwareModel": "j518ap",
+            "ProductType": "iPad13,6"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 33027,
+            "DeviceType": "iPad Pro 11 (3rd gen)",
+            "HardwareModel": "j518xap",
+            "ProductType": "iPad13,7"
+        },
+        {
+            "BoardId": 24,
+            "ChipId": 33027,
+            "DeviceType": "iPad Pro 12.9 (5th gen)",
+            "HardwareModel": "j522ap",
+            "ProductType": "iPad13,8"
+        },
+        {
+            "BoardId": 26,
+            "ChipId": 33027,
+            "DeviceType": "iPad Pro 12.9 (5th gen)",
+            "HardwareModel": "j522xap",
+            "ProductType": "iPad13,9"
+        },
+        {
+            "BoardId": 28,
+            "ChipId": 33027,
+            "DeviceType": "iPad Pro 12.9 (5th gen)",
+            "HardwareModel": "j523ap",
+            "ProductType": "iPad13,10"
+        },
+        {
+            "BoardId": 30,
+            "ChipId": 33027,
+            "DeviceType": "iPad Pro 12.9 (5th gen)",
+            "HardwareModel": "j523xap",
+            "ProductType": "iPad13,11"
+        },
+        {
+            "BoardId": 16,
+            "ChipId": 33027,
+            "DeviceType": "iPad Air 5",
+            "HardwareModel": "j407ap",
+            "ProductType": "iPad13,16"
+        },
+        {
+            "BoardId": 18,
+            "ChipId": 33027,
+            "DeviceType": "iPad Air 5",
+            "HardwareModel": "j408ap",
+            "ProductType": "iPad13,17"
+        },
+        {
+            "BoardId": 20,
+            "ChipId": 33025,
+            "DeviceType": "iPad (10th gen)",
+            "HardwareModel": "j271ap",
+            "ProductType": "iPad13,18"
+        },
+        {
+            "BoardId": 22,
+            "ChipId": 33025,
+            "DeviceType": "iPad (10th gen)",
+            "HardwareModel": "j272ap",
+            "ProductType": "iPad13,19"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 33040,
+            "DeviceType": "iPad mini (6th gen)",
+            "HardwareModel": "j310ap",
+            "ProductType": "iPad14,1"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 33040,
+            "DeviceType": "iPad mini (6th gen)",
+            "HardwareModel": "j311ap",
+            "ProductType": "iPad14,2"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 33042,
+            "DeviceType": "iPad Pro 11(4th gen)",
+            "HardwareModel": "j617ap",
+            "ProductType": "iPad14,3"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 33042,
+            "DeviceType": "iPad Pro 11(4th gen)",
+            "HardwareModel": "j618ap",
+            "ProductType": "iPad14,4"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 33042,
+            "DeviceType": "iPad Pro 12.9(6th gen)",
+            "HardwareModel": "j620ap",
+            "ProductType": "iPad14,5"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 33042,
+            "DeviceType": "iPad Pro 12.9(6th gen)",
+            "HardwareModel": "j621ap",
+            "ProductType": "iPad14,6"
+        },
+        {
+            "BoardId": 16,
+            "ChipId": 33042,
+            "DeviceType": "iPad Air 11-inch (M2)",
+            "HardwareModel": "j507ap",
+            "ProductType": "iPad14,8"
+        },
+        {
+            "BoardId": 18,
+            "ChipId": 33042,
+            "DeviceType": "iPad Air 11-inch (M2)",
+            "HardwareModel": "j508ap",
+            "ProductType": "iPad14,9"
+        },
+        {
+            "BoardId": 20,
+            "ChipId": 33042,
+            "DeviceType": "iPad Air 13-inch (M2)",
+            "HardwareModel": "j537ap",
+            "ProductType": "iPad14,10"
+        },
+        {
+            "BoardId": 22,
+            "ChipId": 33042,
+            "DeviceType": "iPad Air 13-inch (M2)",
+            "HardwareModel": "j538ap",
+            "ProductType": "iPad14,11"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 33074,
+            "DeviceType": "iPad Pro 11-inch (M4)",
+            "HardwareModel": "j717ap",
+            "ProductType": "iPad16,3"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 33074,
+            "DeviceType": "iPad Pro 11-inch (M4)",
+            "HardwareModel": "j718ap",
+            "ProductType": "iPad16,4"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 33074,
+            "DeviceType": "iPad Pro 13-inch (M4)",
+            "HardwareModel": "j720ap",
+            "ProductType": "iPad16,5"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 33074,
+            "DeviceType": "iPad Pro 13-inch (M4)",
+            "HardwareModel": "j721ap",
+            "ProductType": "iPad16,6"
+        },
+        {
+            "BoardId": 16,
+            "ChipId": 35120,
+            "DeviceType": "Apple TV 2",
+            "HardwareModel": "k66ap",
+            "ProductType": "AppleTV2,1"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 35138,
+            "DeviceType": "Apple TV 3",
+            "HardwareModel": "j33ap",
+            "ProductType": "AppleTV3,1"
+        },
+        {
+            "BoardId": 0,
+            "ChipId": 35143,
+            "DeviceType": "Apple TV 3 (2013)",
+            "HardwareModel": "j33iap",
+            "ProductType": "AppleTV3,2"
+        },
+        {
+            "BoardId": 52,
+            "ChipId": 28672,
+            "DeviceType": "Apple TV 4",
+            "HardwareModel": "j42dap",
+            "ProductType": "AppleTV5,3"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 32785,
+            "DeviceType": "Apple TV 4K",
+            "HardwareModel": "j105aap",
+            "ProductType": "AppleTV6,2"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 32800,
+            "DeviceType": "Apple TV 4K (2nd gen)",
+            "HardwareModel": "j305ap",
+            "ProductType": "AppleTV11,1"
+        },
+        {
+            "BoardId": 56,
+            "ChipId": 28672,
+            "DeviceType": "HomePod",
+            "HardwareModel": "b238aap",
+            "ProductType": "AudioAccessory1,1"
+        },
+        {
+            "BoardId": 26,
+            "ChipId": 28672,
+            "DeviceType": "HomePod",
+            "HardwareModel": "b238ap",
+            "ProductType": "AudioAccessory1,2"
+        },
+        {
+            "BoardId": 34,
+            "ChipId": 32774,
+            "DeviceType": "HomePod mini",
+            "HardwareModel": "b520ap",
+            "ProductType": "AudioAccessory5,1"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 28674,
+            "DeviceType": "Apple Watch 38mm (1st gen)",
+            "HardwareModel": "n27aap",
+            "ProductType": "Watch1,1"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 28674,
+            "DeviceType": "Apple Watch 42mm (1st gen)",
+            "HardwareModel": "n28aap",
+            "ProductType": "Watch1,2"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 32770,
+            "DeviceType": "Apple Watch Series 1 (38mm)",
+            "HardwareModel": "n27dap",
+            "ProductType": "Watch2,6"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 32770,
+            "DeviceType": "Apple Watch Series 1 (42mm)",
+            "HardwareModel": "n28dap",
+            "ProductType": "Watch2,7"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 32770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch2,3"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 32770,
+            "DeviceType": "Apple Watch Series 2 (42mm)",
+            "HardwareModel": "n75ap",
+            "ProductType": "Watch2,4"
+        },
+        {
+            "BoardId": 28,
+            "ChipId": 32772,
+            "DeviceType": "Apple Watch Series 3 (38mm Cellular)",
+            "HardwareModel": "n111sap",
+            "ProductType": "Watch3,1"
+        },
+        {
+            "BoardId": 30,
+            "ChipId": 32772,
+            "DeviceType": "Apple Watch Series 3 (42mm Cellular)",
+            "HardwareModel": "n111bap",
+            "ProductType": "Watch3,2"
+        },
+        {
+            "BoardId": 24,
+            "ChipId": 32772,
+            "DeviceType": "Apple Watch Series 3 (38mm)",
+            "HardwareModel": "n121sap",
+            "ProductType": "Watch3,3"
+        },
+        {
+            "BoardId": 26,
+            "ChipId": 32772,
+            "DeviceType": "Apple Watch Series 3 (42mm)",
+            "HardwareModel": "n121bap",
+            "ProductType": "Watch3,4"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 32774,
+            "DeviceType": "Apple Watch Series 4 (40mm)",
+            "HardwareModel": "n131sap",
+            "ProductType": "Watch4,1"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 32774,
+            "DeviceType": "Apple Watch Series 4 (44mm)",
+            "HardwareModel": "n131bap",
+            "ProductType": "Watch4,2"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 32774,
+            "DeviceType": "Apple Watch Series 4 (40mm Cellular)",
+            "HardwareModel": "n141sap",
+            "ProductType": "Watch4,3"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 32774,
+            "DeviceType": "Apple Watch Series 4 (44mm Cellular)",
+            "HardwareModel": "n141bap",
+            "ProductType": "Watch4,4"
+        },
+        {
+            "BoardId": 16,
+            "ChipId": 32774,
+            "DeviceType": "Apple Watch Series 5 (40mm)",
+            "HardwareModel": "n144sap",
+            "ProductType": "Watch5,1"
+        },
+        {
+            "BoardId": 18,
+            "ChipId": 32774,
+            "DeviceType": "Apple Watch Series 5 (44mm)",
+            "HardwareModel": "n144bap",
+            "ProductType": "Watch5,2"
+        },
+        {
+            "BoardId": 20,
+            "ChipId": 32774,
+            "DeviceType": "Apple Watch Series 5 (40mm Cellular)",
+            "HardwareModel": "n146sap",
+            "ProductType": "Watch5,3"
+        },
+        {
+            "BoardId": 22,
+            "ChipId": 32774,
+            "DeviceType": "Apple Watch Series 5 (44mm Cellular)",
+            "HardwareModel": "n146bap",
+            "ProductType": "Watch5,4"
+        },
+        {
+            "BoardId": 40,
+            "ChipId": 32774,
+            "DeviceType": "Apple Watch SE (40mm)",
+            "HardwareModel": "n140sap",
+            "ProductType": "Watch5,9"
+        },
+        {
+            "BoardId": 42,
+            "ChipId": 32774,
+            "DeviceType": "Apple Watch SE (44mm)",
+            "HardwareModel": "n140bap",
+            "ProductType": "Watch5,10"
+        },
+        {
+            "BoardId": 44,
+            "ChipId": 32774,
+            "DeviceType": "Apple Watch SE (40mm Cellular)",
+            "HardwareModel": "n142sap",
+            "ProductType": "Watch5,11"
+        },
+        {
+            "BoardId": 46,
+            "ChipId": 32774,
+            "DeviceType": "Apple Watch SE (44mm Cellular)",
+            "HardwareModel": "n142bap",
+            "ProductType": "Watch5,12"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 33537,
+            "DeviceType": "Apple Watch Series 6 (40mm)",
+            "HardwareModel": "n157sap",
+            "ProductType": "Watch6,1"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 33537,
+            "DeviceType": "Apple Watch Series 6 (44mm)",
+            "HardwareModel": "n157bap",
+            "ProductType": "Watch6,2"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 33537,
+            "DeviceType": "Apple Watch Series 6 (40mm Cellular)",
+            "HardwareModel": "n158sap",
+            "ProductType": "Watch6,3"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 33537,
+            "DeviceType": "Apple Watch Series 6 (44mm Cellular)",
+            "HardwareModel": "n158bap",
+            "ProductType": "Watch6,4"
+        },
+        {
+            "BoardId": 66,
+            "ChipId": 32807,
+            "DeviceType": "Developer Transition Kit",
+            "HardwareModel": "j273aap",
+            "ProductType": "ADP3,2"
+        },
+        {
+            "BoardId": 34,
+            "ChipId": 33027,
+            "DeviceType": "Mac mini (M1, 2020)",
+            "HardwareModel": "j274ap",
+            "ProductType": "Macmini9,1"
+        },
+        {
+            "BoardId": 36,
+            "ChipId": 33027,
+            "DeviceType": "MacBook Pro (13-inch, M1, 2020)",
+            "HardwareModel": "j293ap",
+            "ProductType": "MacBookPro17,1"
+        },
+        {
+            "BoardId": 38,
+            "ChipId": 33027,
+            "DeviceType": "MacBook Air (M1, 2020)",
+            "HardwareModel": "j313ap",
+            "ProductType": "MacBookAir10,1"
+        },
+        {
+            "BoardId": 40,
+            "ChipId": 33027,
+            "DeviceType": "iMac (24-inch, M1, Two Ports, 2021)",
+            "HardwareModel": "j456ap",
+            "ProductType": "iMac21,1"
+        },
+        {
+            "BoardId": 42,
+            "ChipId": 33027,
+            "DeviceType": "iMac (24-inch, M1, Four Ports, 2021)",
+            "HardwareModel": "j457ap",
+            "ProductType": "iMac21,2"
+        },
+        {
+            "BoardId": 11,
+            "ChipId": 32786,
+            "DeviceType": "MacBook Pro (15-inch, 2018)",
+            "HardwareModel": "j680ap",
+            "ProductType": "iBridge2,3"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 32786,
+            "DeviceType": "MacBook Pro (13-inch, 2018 / 2019, 4 Thunderbolt / USB 3 ports)",
+            "HardwareModel": "j132ap",
+            "ProductType": "iBridge2,4"
+        },
+        {
+            "BoardId": 15,
+            "ChipId": 32786,
+            "DeviceType": "Mac Pro (2019, Desktop)",
+            "HardwareModel": "j160ap",
+            "ProductType": "iBridge2,6"
+        },
+        {
+            "BoardId": 23,
+            "ChipId": 32786,
+            "DeviceType": "MacBook Air (Retina display, 13-inch, 2018)",
+            "HardwareModel": "j140kap",
+            "ProductType": "iBridge2,8"
+        },
+        {
+            "BoardId": 24,
+            "ChipId": 32786,
+            "DeviceType": "MacBook Pro (13-inch, 2019, 2 Thunderbolt / USB 3 ports)",
+            "HardwareModel": "j213ap",
+            "ProductType": "iBridge2,10"
+        },
+        {
+            "BoardId": 55,
+            "ChipId": 32786,
+            "DeviceType": "MacBook Air (Retina display, 13-inch, 2019)",
+            "HardwareModel": "j140aap",
+            "ProductType": "iBridge2,12"
+        },
+        {
+            "BoardId": 58,
+            "ChipId": 32786,
+            "DeviceType": "MacBook Pro (16-inch, 2019)",
+            "HardwareModel": "j152fap",
+            "ProductType": "iBridge2,14"
+        },
+        {
+            "BoardId": 63,
+            "ChipId": 32786,
+            "DeviceType": "MacBook Air (Retina display, 13-inch, 2020)",
+            "HardwareModel": "j230kap",
+            "ProductType": "iBridge2,15"
+        },
+        {
+            "BoardId": 62,
+            "ChipId": 32786,
+            "DeviceType": "MacBook Pro (13-inch, 2020, 4 Thunderbolt / USB 3 ports)",
+            "HardwareModel": "j214kap",
+            "ProductType": "iBridge2,16"
+        },
+        {
+            "BoardId": 34,
+            "ChipId": 32786,
+            "DeviceType": "iMac (2020)",
+            "HardwareModel": "j185ap",
+            "ProductType": "iBridge2,19"
+        },
+        {
+            "BoardId": 35,
+            "ChipId": 32786,
+            "DeviceType": "iMac (2020)",
+            "HardwareModel": "j185fap",
+            "ProductType": "iBridge2,20"
+        },
+        {
+            "BoardId": 59,
+            "ChipId": 32786,
+            "DeviceType": "MacBook Pro (13-inch, 2020, 2 Thunderbolt / USB 3 ports)",
+            "HardwareModel": "j223ap",
+            "ProductType": "iBridge2,21"
+        },
+        {
+            "BoardId": 56,
+            "ChipId": 32786,
+            "DeviceType": "MacBook Pro (16-inch, 2019)",
+            "HardwareModel": "j215ap",
+            "ProductType": "iBridge2,22"
+        },
+        {
+            "BoardId": 40,
+            "ChipId": 33042,
+            "DeviceType": "MacBook Air (M2, 2022)",
+            "HardwareModel": "j413ap",
+            "ProductType": "Mac14,2"
+        },
+        {
+            "BoardId": 7,
+            "ChipId": 32786,
+            "DeviceType": "MacBook Pro (15-inch 2019)",
+            "HardwareModel": "j780ap",
+            "ProductType": "iBridge2,7"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 24609,
+            "DeviceType": "MacBook Pro (16-inch, M2 Max, 2023)",
+            "HardwareModel": "j416cap",
+            "ProductType": "Mac14,6"
+        },
+        {
+            "BoardId": 6,
+            "ChipId": 24608,
+            "DeviceType": "MacBook Pro (16-inch, M2 Pro, 2023)",
+            "HardwareModel": "j416sap",
+            "ProductType": "Mac14,10"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 24609,
+            "DeviceType": "MacBook Pro (14-inch, M2 Max, 2023)",
+            "HardwareModel": "j414cap",
+            "ProductType": "Mac14,5"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 24608,
+            "DeviceType": "MacBook Pro (14-inch, M2 Pro, 2023)",
+            "HardwareModel": "j414sap",
+            "ProductType": "Mac14,9"
+        },
+        {
+            "BoardId": 42,
+            "ChipId": 33042,
+            "DeviceType": "MacBook Pro (13-inch, M2, 2022)",
+            "HardwareModel": "j493ap",
+            "ProductType": "Mac14,7"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 24576,
+            "DeviceType": "MacBook Pro (16-inch, M1 Pro, 2021)",
+            "HardwareModel": "j316sap",
+            "ProductType": "MacBookPro18,1"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 24577,
+            "DeviceType": "MacBook Pro (16-inch, M1 Max, 2021)",
+            "HardwareModel": "j316cap",
+            "ProductType": "MacBookPro18,2"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 24576,
+            "DeviceType": "MacBook Pro (14-inch, M1 Pro, 2021)",
+            "HardwareModel": "j314sap",
+            "ProductType": "MacBookPro18,3"
+        },
+        {
+            "BoardId": 8,
+            "ChipId": 24577,
+            "DeviceType": "MacBook Pro (14-inch, M1 Max, 2021)",
+            "HardwareModel": "j314cap",
+            "ProductType": "MacBookPro18,4"
+        },
+        {
+            "BoardId": 10,
+            "ChipId": 32786,
+            "DeviceType": "iMac Pro (2017)",
+            "HardwareModel": "j137ap",
+            "ProductType": "iBridge2,1"
+        },
+        {
+            "BoardId": 14,
+            "ChipId": 32786,
+            "DeviceType": "Mac mini (2018)",
+            "HardwareModel": "j174ap",
+            "ProductType": "iBridge2,5"
+        },
+        {
+            "BoardId": 36,
+            "ChipId": 33042,
+            "DeviceType": "Mac mini (M2, 2023)",
+            "HardwareModel": "j473ap",
+            "ProductType": "Mac14,3"
+        },
+        {
+            "BoardId": 2,
+            "ChipId": 24608,
+            "DeviceType": "Mac mini (M2 Pro, 2023)",
+            "HardwareModel": "j474sap",
+            "ProductType": "Mac14,12"
+        },
+        {
+            "BoardId": 4,
+            "ChipId": 24577,
+            "DeviceType": "Mac Studio (M1 Max, 2022)",
+            "HardwareModel": "j375cap",
+            "ProductType": "Mac13,1"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 24578,
+            "DeviceType": "Mac Studio (M1 Ultra, 2022)",
+            "HardwareModel": "j375dap",
+            "ProductType": "Mac13,2"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,1"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,2"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,3"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,4"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,5"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,6"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,7"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,8"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,9"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,10"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,11"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,12"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,13"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,14"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,15"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,16"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,17"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,18"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,19"
+        },
+        {
+            "BoardId": 12,
+            "ChipId": 62770,
+            "DeviceType": "Apple Watch Series 2 (38mm)",
+            "HardwareModel": "n74ap",
+            "ProductType": "Watch100,20"
+        }
+    ],
+    "version": "1.9"
+}
+
