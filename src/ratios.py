@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 from src.model import build_model, build_comps
 
@@ -5,7 +6,10 @@ from src.model import build_model, build_comps
 def add_margins(df: pd.DataFrame) -> pd.DataFrame:
     """Calculate gross, operating and net profit margins."""
     df = df.copy()
-    df["gross_margin"] = df["gross_profit"] / df["revenue"]
+    if "gross_profit" in df.columns:
+        df["gross_margin"] = df["gross_profit"] / df["revenue"]
+    else:
+        df["gross_margin"] = np.nan
     df["operating_margin"] = df["operating_income"] / df["revenue"]
     df["net_margin"] = df["net_income"] / df["revenue"]
     return df
@@ -24,8 +28,12 @@ def add_growth_rates(df: pd.DataFrame) -> pd.DataFrame:
 def add_fcf(df: pd.DataFrame) -> pd.DataFrame:
     """Calculate free cash flow."""
     df = df.copy()
-    df["fcf"] = df["operating_cashflow"] - df["capex"]
-    df["fcf_margin"] = df["fcf"] / df["revenue"]
+    if "capex" in df.columns:
+        df["fcf"] = df["operating_cashflow"] - df["capex"]
+        df["fcf_margin"] = df["fcf"] / df["revenue"]
+    else:
+        df["fcf"] = np.nan
+        df["fcf_margin"] = np.nan
     return df
 
 

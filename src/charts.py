@@ -137,12 +137,18 @@ def comps_table(df: pd.DataFrame, year: int) -> go.Figure:
     """Summary comps table for a given year."""
     filtered = df[df["year"] == year].copy()
 
-    filtered["revenue_bn"] = (filtered["revenue"] / 1e9).round(1)
-    filtered["gross_margin_pct"] = (filtered["gross_margin"] * 100).round(1)
-    filtered["operating_margin_pct"] = (filtered["operating_margin"] * 100).round(1)
-    filtered["net_margin_pct"] = (filtered["net_margin"] * 100).round(1)
-    filtered["fcf_bn"] = (filtered["fcf"] / 1e9).round(1)
-    filtered["roe_pct"] = (filtered["return_on_equity"] * 100).round(1)
+    def fmt_pct(series):
+        return series.apply(lambda x: f"{x:.1f}%" if pd.notna(x) else "—")
+
+    def fmt_bn(series):
+        return series.apply(lambda x: round(x, 1) if pd.notna(x) else "—")
+
+    filtered["revenue_bn"] = fmt_bn(filtered["revenue"] / 1e9)
+    filtered["gross_margin_pct"] = fmt_pct(filtered["gross_margin"] * 100)
+    filtered["operating_margin_pct"] = fmt_pct(filtered["operating_margin"] * 100)
+    filtered["net_margin_pct"] = fmt_pct(filtered["net_margin"] * 100)
+    filtered["fcf_bn"] = fmt_bn(filtered["fcf"] / 1e9)
+    filtered["roe_pct"] = fmt_pct(filtered["return_on_equity"] * 100)
 
     fig = go.Figure(data=[go.Table(
         header=dict(
@@ -158,11 +164,11 @@ def comps_table(df: pd.DataFrame, year: int) -> go.Figure:
             values=[
                 filtered["ticker"],
                 filtered["revenue_bn"],
-                filtered["gross_margin_pct"].astype(str) + "%",
-                filtered["operating_margin_pct"].astype(str) + "%",
-                filtered["net_margin_pct"].astype(str) + "%",
+                filtered["gross_margin_pct"],
+                filtered["operating_margin_pct"],
+                filtered["net_margin_pct"],
                 filtered["fcf_bn"],
-                filtered["roe_pct"].astype(str) + "%",
+                filtered["roe_pct"],
             ],
             fill_color="#F1EFE8",
             align="center",
