@@ -5,9 +5,9 @@ from src.edgar import get_metric
 CONCEPTS = {
     "revenue": [
         "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "RevenueFromContractWithCustomerIncludingAssessedTax"
         "SalesRevenueNet",
         "Revenues",
-        "RevenueFromContractWithCustomerIncludingAssessedTax",
         "SalesRevenueGoodsNet",
     ],
     "gross_profit": [
